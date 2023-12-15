@@ -4,18 +4,12 @@
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && rebootcode></pre>
 
 ### INSTALL SCRIPT 
-```
-apt install -y && wget -q https://raw.githubusercontent.com/bimaVPN/Apex/ZX/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
-```
+<pre><code>apt install -y && wget -q https://raw.githubusercontent.com/bimaVPN/Apex/ZX/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh</code></pre>
 
-## UPDATE SCRIPT
-```
-wget -q https://raw.githubusercontent.com/bimaVPN/Apex/ZX/update.sh && chmod +x update.sh && ./update.sh
-```
 
 ### WORK DI OS
 - UBUNTU 18 / 20
-- DEBIAN 9 / 10
+- DEBIAN 9 / 10 ( recommended )
 - 
 
 ### SUPPORT PORT
